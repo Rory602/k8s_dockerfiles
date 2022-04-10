@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From calico/node:v3.22.1
 Maintainer wangzhiyuan602@163.com
