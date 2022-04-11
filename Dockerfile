@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From quay.io/jetstack/cert-manager-cainjector:v1.5.0
 Maintainer wangzhiyuan602@163.com
