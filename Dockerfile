@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From kserve/kserve-controller:v0.7.0
 Maintainer wangzhiyuan602@163.com
