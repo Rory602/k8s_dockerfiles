@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From kubeflowkatib/katib-controller:v0.13.0
 Maintainer wangzhiyuan602@163.com
