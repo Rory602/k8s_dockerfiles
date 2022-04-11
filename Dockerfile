@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker:latest
 Maintainer wangzhiyuan602@163.com
