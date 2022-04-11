@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From gcr.io/tfx-oss-public/ml_metadata_store_server:1.5.0
 Maintainer wangzhiyuan602@163.com
