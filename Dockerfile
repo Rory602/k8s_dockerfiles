@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.21.11
+From gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
 Maintainer wangzhiyuan602@163.com
